@@ -1,7 +1,4 @@
-# My_Blender_works
-Hi everyone, these are some of my works on blender. i created these. Thank You
+# My_Blender_works (5)
+Hi everyone, after having a good idea of how to model and texture, i went on to trying animations.
 
-In these pictures you will find the procedural landscape containing mountains that i made using geometry nodes and textures.
-
-# You can go to branches of main to find my works...
-Thank you
+Here are some of the animations created and edited by me as a part of GameD Team, Coding Club, Bits Pilani.
