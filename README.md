@@ -1,7 +1,5 @@
-# My_Blender_works
-Hi everyone, these are some of my works on blender. i created these. Thank You
+# My_Blender_works (2)
 
-In these pictures you will find the procedural landscape containing mountains that i made using geometry nodes and textures.
-
-# You can go to branches of main to find my works...
-Thank you
+Hi, this was the time when i was trying to experiment in Blender,
+i used image textures on the ball to make a wallpaper 
+and also it's floor which all together gave a lovely effect.
