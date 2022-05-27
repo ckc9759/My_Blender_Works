@@ -1,10 +1,8 @@
-# My_Blender_works
-Hi everyone, these are some of my works on Blender. 
-I created these as my passion and as a team member of GameDev,Coding Club,Bits Pilani.
+# My_Blender_works (6)
+Hi everyone, i worked on a project where i with a team member 
+created an improvised map of Valorant named "Haven".
 
-In the pictures, i have attached you can get an idea of how to learn any 3d software step by step.
-I have added all my assets i have made till now and whenever i make something new, i add it over here. 
-Any suggestions from your side is most welcomed.
+Also, we created a game named ENCRYPTION Z3RO for our tech fest APOGEE 2022.
+Some of the photos of it are attached here.
 
-# You can go to branches of main to find my works...
 Thank you
