@@ -1,4 +1,4 @@
-# My Blender works 1st Project
+# My Blender works (1)
 Hey, this was my first work when i started blender
 
 This is a donut as u all can see, a simple donut with blue background. But you know what, it took me about a week to learn every single step to actually make it. i have used cycles to render it and applied a bunch of modifiers and texture painting.
